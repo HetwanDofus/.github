@@ -1,4 +1,4 @@
 # HetwanDofus
 
-HetwanDofus is a container for the development of tools and an emulator for Dofus2.
+HetwanDofus is an organization for the development of tools and an emulator for Dofus2.
 
